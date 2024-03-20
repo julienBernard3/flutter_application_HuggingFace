@@ -22,9 +22,9 @@ final List<String> imgList = [
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/apple/Image_1.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/apple/Image_2.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/apple/Image_3.jpg',
-  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/apple/Image_4.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/apple/Image_5.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/banana/Image_1.jpg',
-  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/banana/Image_2.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/banana/Image_5.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/banana/Image_3.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/banana/Image_4.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/kiwi/Image_1.jpg',
@@ -39,6 +39,10 @@ final List<String> imgList = [
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/strawberry/Image_2.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/strawberry/Image_3.jpg',
   'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/strawberry/Image_4.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/pineapple/Image_1.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/pineapple/Image_2.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/pineapple/Image_3.jpg',
+  'https://raw.githubusercontent.com/julienBernard3/flutter_application_HuggingFace/main/sample_images/pineapple/Image_4.jpg'
 ];
 
 void main() {
